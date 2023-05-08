@@ -6,9 +6,9 @@ import org.springframework.stereotype.Component;
 //@Component("aob")
 public class Address {
 	
-	@Value("3210")
+	@Value("Pathanchack")
 	String  hno;
-	@Value("Chd")
+	@Value("Chandigarh")
 	String loc;
 	@Override
 	public String toString() {
